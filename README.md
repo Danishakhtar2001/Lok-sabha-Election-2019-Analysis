@@ -1,5 +1,19 @@
 # Lok-sabha-Election-2019- 
 
+# Outline of Approach
+Data loading
+Data Cleaning
+Data Transformation
+Data Visualization
+Insights
+# Libraries Used
+Pandas
+NumPy
+Matplotlib
+Seaborn
+sqlite3
+Scikit-learn
+
 # INSIGHTS
 
 **PARTIES AND VOTE PERCENTAGE**
