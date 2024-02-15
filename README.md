@@ -1,5 +1,5 @@
 # Lok-sabha-Election-2019- 
-[link for Project](https://nbviewer.org/github/Danishakhtar2001/Lok-sabha-Election-2019-Analysis/blob/main/Ls_2019_election_analysis.ipynb)
+[link for Project](https://nbviewer.org/github/Danishakhtar2001/Lok-sabha-Election-2019-Analysis/blob/main/lok_sabha_2019_analysis.ipynb)
 
 # Outline of Approach
 - Data loading
