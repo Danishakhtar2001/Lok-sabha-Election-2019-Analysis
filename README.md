@@ -8,7 +8,7 @@
 - Data Visualization
 - Insights
 # Libraries Used
-Pandas
+- Pandas
 - NumPy
 - Matplotlib
 - Seaborn
