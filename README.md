@@ -6,6 +6,7 @@
 - Data Cleaning
 - Data Transformation
 - Data Visualization
+- Data base connectivity
 - Insights
 # Libraries Used
 - Pandas
